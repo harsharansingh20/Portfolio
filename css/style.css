@@ -1,0 +1,292 @@
+
+*{
+    font-family: 'Staatliches' , cursive;
+    
+}
+body{
+    background-color: rgb(255, 255, 255);
+    
+    
+    
+    
+}
+
+.logo{
+    height: 93px;
+    width: 185px;
+    position: relative;
+    left: 134px;
+    
+}
+a.nav-link {
+    font-size: x-large;
+    padding: 2px;
+    word-spacing: 30px;
+    
+}
+.container-fluid{
+    background-color: rgb(255, 255, 255);
+    /* font-family: 'Staatliches', cursive; */
+    letter-spacing: 2px;
+
+
+}
+.navbar-collapse .nav-item a.nav-link:hover{
+    color: red;
+}
+
+.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: white!important;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    display: flex!important;
+    flex-basis: auto;
+    /* margin-left: 550px; */
+    position: absolute;
+    right: 134px;
+    
+}
+
+
+
+.img-fluid{
+    vertical-align: middle;
+    position: absolute;
+    right: 530px;
+    border-radius: 5004px;
+    height: 450px;
+    margin-top: -8px;
+}
+.class{
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    position: relative;
+    left: 530px;
+}
+.my-3 {
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
+    position: relative;
+    left: 530px;
+    font-size: 50px;
+    color: red;
+    
+    }
+
+.heading{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-top: 57px;
+    
+}
+.span{
+    
+    color: rgb(118 118 118);
+    
+}
+.my-4{
+    color: rgb(118 118 118);
+    letter-spacing: 0.5px;
+    
+}
+.container{
+    font-weight:100 !important;
+
+}
+.imagesection{
+margin-top: 150px;
+}
+.btn{
+    margin-top: 57px;
+    font-size: 2.5rem;
+}
+.linkedin{
+    height: 52px;
+    margin-top: -600px;
+    margin-left: 90px;
+
+}
+.github{
+    height: 52px;
+    margin-top: -450px;
+    margin-left: 90px;
+
+}
+.insta{
+    height: 52px;
+    margin-top: -300px;
+    margin-left: 90px;
+}
+.call{
+    height: 32px;
+    margin-left: 14px;
+}
+
+.mouse{
+    height: 38px;
+}
+.arrow{
+    height: 30px;
+}
+.scroll{
+    
+    position: absolute;
+    left: 558px;
+    margin-top: 160px;
+}
+.container4{
+    margin-top: 500px;
+}
+.h9{
+    margin-top: 350px;
+}
+.h9:hover{
+    color: red;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.introduction{
+    margin-top: 420px;
+    margin-left: -127px;
+}
+.image2{
+    height: 500px;
+    border-radius: 34px;
+    margin-top: 115px;
+    position: relative;
+    left: 200px;
+}
+.bio{
+    position: absolute;
+    right:445px;
+    margin-top: -475px;
+    font-size: 19px;
+}
+.download {
+    height: 35px;
+    margin-left: 10px;
+}
+.button1{
+    margin-top: 206px;
+    
+}
+.projects{
+margin-left: 640px;
+margin-top: -255px;
+}
+.internships{
+    margin-top: -66px;
+    margin-left: 800px;
+}
+.experience{
+    margin-top: -67px;
+    margin-left: 900px;
+}
+.skills{
+    margin-top: 350px;
+}
+.skills:hover{
+    color: red;
+}
+.mytechnicallevel{
+    margin-top: 420px;
+    margin-left: -115px;
+}
+.accordion{
+width: 50%;
+border: 2px solid white;
+margin-left: 357x;
+margin-top: 150px;
+border: 2px solid red;
+}
+.footer{
+    margin-top: 1000px;
+}
+.accordion-item:first-of-type .accordion-button {
+    
+    background: rgb(255, 255, 255);
+    font-size: 23px;
+    
+}
+.accordion-button:not(.collapsed) {
+    color: rgb(255, 22, 22);
+    background-color: rgb(255, 0, 0);
+    box-shadow: rgba(0, 0, 0, 0.125) 0px -1px 0px inset;
+}
+.bracket {
+    height: 52px;
+    margin-right: 315px;
+}
+#progress1{
+    width: 100%;
+    margin-top: 6px;
+}
+#progress2{
+    width: 100%;
+    margin-top: 10px;
+}
+#progress3{
+    width: 100%;
+    margin-top: 9px;
+}
+#progress4{
+    width: 100%;
+    margin-top: 9px;
+}
+#progress5{
+    width: 100%;
+    margin-top: 7px;
+}
+
+.HTML{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 23px;
+    color: rgb(49, 132, 253);
+}
+.CSS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    color: rgb(25, 135, 84);
+
+}
+.JS{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 47px;
+    color: rgb(13, 202, 240);
+}
+
+
+.GITHUB{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 47px;
+    color: rgb(255, 193, 5);
+}
+.BOOTSTRAP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 47px;
+    color: rgb(220, 53, 69);
+}
+#accordionFlushExample2{
+margin-left: 1132px;
+margin-top: -90px;
+}
+#accordionFlushExample1{
+    margin-left: 460px;
+}
