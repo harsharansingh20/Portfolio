@@ -290,3 +290,41 @@ margin-top: -90px;
 #accordionFlushExample1{
     margin-left: 460px;
 }
+.qualification{
+    margin-top: 210px;
+    margin-left: 840px;
+}
+.qualification:hover{
+color: red;
+}
+.myjourney{
+    margin-left: 860px;
+}
+.leftarrow{
+    height: 95px;
+    margin-left: 1440px;
+    margin-top: -115px;
+}
+.lineimage{
+    height: 600px;
+    
+    position: absolute;
+    right: 755px;
+    margin-top: 90px;
+}
+.graduation{
+    
+    height: 38px;
+    position: absolute;
+    left: 101px;
+    margin-top: -8px;
+}
+
+.education{
+    position: relative;
+    left: 885px;
+    margin-top: 120px;
+}
+.educationhover:hover{
+    color: goldenrod;
+}
