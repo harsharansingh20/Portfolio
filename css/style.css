@@ -328,3 +328,49 @@ color: red;
 .educationhover:hover{
     color: goldenrod;
 }
+.services{
+    margin-top: 885px;
+    position: relative;
+    left: 870px;
+
+}
+.hover:hover{
+    color: red;
+}
+.whatioffer{
+    margin-left: 17px;
+}
+.whatioffer:hover{
+    color: goldenrod;
+}
+
+.cards{
+    position: relative;
+    left: -586px;
+    margin-top: 232px;
+    
+    
+}
+.card{
+    height: 500px;
+
+}
+.card:hover{
+    color: blue;
+}
+#card1{
+
+}
+#card2{
+position: relative;
+margin-top: -504px;
+left: 525px;
+}
+#card3{
+position: relative;
+left: 1050px;
+margin-top: -504px;
+}
+#cardimg{
+    height: 200px;
+}
