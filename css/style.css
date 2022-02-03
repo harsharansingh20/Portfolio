@@ -1,11 +1,11 @@
 
 *{
     font-family: 'Staatliches' , cursive;
-    
+        
 }
 body{
     background-color: rgb(255, 255, 255);
-    
+    overflow-x: hidden;
     
     
     
@@ -328,10 +328,11 @@ color: red;
 .educationhover:hover{
     color: goldenrod;
 }
-.services{
+#services{
     margin-top: 885px;
     position: relative;
     left: 870px;
+    
 
 }
 .hover:hover{
@@ -346,31 +347,119 @@ color: red;
 
 .cards{
     position: relative;
-    left: -586px;
+    left: -655px;
     margin-top: 232px;
     
     
+    
 }
+.card-body {
+    
+    padding: 1rem 1rem;
+    margin-top: -72px;
+    font-size: 19px;
+}
+
 .card{
     height: 500px;
+    
+    
 
 }
-.card:hover{
+
+.card-body:hover{
     color: blue;
 }
 #card1{
+border: 2px solid rgb(101, 99, 255);
+border-radius: 23px;
+
 
 }
 #card2{
 position: relative;
 margin-top: -504px;
 left: 525px;
+border: 2px solid rgb(101, 99, 255);
+border-radius: 23px;
+
+
 }
 #card3{
 position: relative;
 left: 1050px;
-margin-top: -504px;
+margin-top: -500px;
+border: 2px solid rgb(101, 99, 255);
+border-radius: 23px;
+
+
 }
 #cardimg{
-    height: 200px;
+    height: 150px;
+}
+#cardtext1{
+    margin-top: 100px;
+}
+#cardtext2{
+    margin-top: 105px;
+}
+#cardtext3{
+    margin-top: 105px;
+}
+.cardheading1{
+font-size: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: goldenrod;
+}
+.cardheading1:hover{
+    color: red;
+}
+.cardheading2{
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: goldenrod;
+ }
+ .cardheading2:hover{
+    color: red;
+}
+.cardheading3{
+        font-size: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: goldenrod;
+
+ }
+ .cardheading3:hover{
+    color: red;
+}
+.portfolioheading{
+    margin-top: 308px;
+    position: relative;
+    left: 870px;
+}
+.portfolioheading:hover{
+    color: red;
+}
+.recentwork{
+    position: relative;
+    left: 876px;
+}
+.recentwork:hover{
+color: goldenrod;
+}
+#carouselExampleCaptions{
+    margin-top: 200px;
+}
+.bannerheading{
+    color: rgb(255, 238, 0);
+    font-size: 25px;
+}
+.bannerheading2{
+    color: rgb(255, 0, 0);
+    font-size: 25px;
 }
