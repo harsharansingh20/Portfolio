@@ -84,7 +84,7 @@ a.nav-link {
     
 }
 .heading:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 .span{
     
@@ -160,7 +160,7 @@ margin-top: 150px;
     margin-left: -127px;
 }
 .introduction:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 .image2{
     height: 500px;
@@ -206,7 +206,7 @@ margin-top: -255px;
     margin-left: -115px;
 }
 .mytechnicallevel:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 .accordion{
 width: 50%;
@@ -310,7 +310,7 @@ color: red;
     margin-left: 860px;
 }
 .myjourney:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 .leftarrow{
     height: 95px;
@@ -338,7 +338,7 @@ color: red;
     margin-top: 120px;
 }
 .educationhover:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 #services{
     margin-top: 840px;
@@ -354,7 +354,7 @@ color: red;
     margin-left: 17px;
 }
 .whatioffer:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 
 .cards{
@@ -423,7 +423,7 @@ font-size: 40px;
 display: flex;
 justify-content: center;
 align-items: center;
-color: goldenrod;
+color: darkgoldenrod;
 }
 .cardheading1:hover{
     color: red;
@@ -433,7 +433,7 @@ color: goldenrod;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: goldenrod;
+    color: darkgoldenrod;
  }
  .cardheading2:hover{
     color: red;
@@ -443,7 +443,7 @@ color: goldenrod;
         display: flex;
         justify-content: center;
         align-items: center;
-        color: goldenrod;
+        color: darkgoldenrod;
 
  }
  .cardheading3:hover{
@@ -462,7 +462,7 @@ color: goldenrod;
     left: 876px;
 }
 .recentwork:hover{
-color: goldenrod;
+color: darkgoldenrod;
 }
 #carouselExampleCaptions{
     margin-top: 90px;
@@ -508,7 +508,7 @@ color: red;
     
 }
 .getintouch:hover{
-    color: goldenrod;
+    color: darkgoldenrod;
 }
 
 .btn {
