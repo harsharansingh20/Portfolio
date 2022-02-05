@@ -83,6 +83,9 @@ a.nav-link {
     margin-top: 57px;
     
 }
+.heading:hover{
+    color: goldenrod;
+}
 .span{
     
     color: rgb(118 118 118);
@@ -136,13 +139,13 @@ margin-top: 150px;
     
     position: absolute;
     left: 558px;
-    margin-top: 160px;
+    margin-top: 125px;
 }
 .container4{
     margin-top: 500px;
 }
 .h9{
-    margin-top: 350px;
+    margin-top: 255px;
 }
 .h9:hover{
     color: red;
@@ -153,8 +156,11 @@ margin-top: 150px;
     align-items: center;
 }
 .introduction{
-    margin-top: 420px;
+    margin-top: 333px;
     margin-left: -127px;
+}
+.introduction:hover{
+    color: goldenrod;
 }
 .image2{
     height: 500px;
@@ -190,19 +196,22 @@ margin-top: -255px;
     margin-left: 900px;
 }
 .skills{
-    margin-top: 350px;
+    margin-top: 290px;
 }
 .skills:hover{
     color: red;
 }
 .mytechnicallevel{
-    margin-top: 420px;
+    margin-top: 380px;
     margin-left: -115px;
+}
+.mytechnicallevel:hover{
+    color: goldenrod;
 }
 .accordion{
 width: 50%;
 border: 2px solid white;
-margin-left: 357x;
+margin-left: 357px;
 margin-top: 150px;
 border: 2px solid red;
 }
@@ -288,10 +297,10 @@ margin-left: 1132px;
 margin-top: -90px;
 }
 #accordionFlushExample1{
-    margin-left: 460px;
+    margin-left: 490px;
 }
 .qualification{
-    margin-top: 210px;
+    margin-top: 129px;
     margin-left: 840px;
 }
 .qualification:hover{
@@ -299,6 +308,9 @@ color: red;
 }
 .myjourney{
     margin-left: 860px;
+}
+.myjourney:hover{
+    color: goldenrod;
 }
 .leftarrow{
     height: 95px;
@@ -329,7 +341,7 @@ color: red;
     color: goldenrod;
 }
 #services{
-    margin-top: 885px;
+    margin-top: 840px;
     position: relative;
     left: 870px;
     
@@ -348,7 +360,7 @@ color: red;
 .cards{
     position: relative;
     left: -655px;
-    margin-top: 232px;
+    margin-top: 158px;
     
     
     
@@ -453,7 +465,7 @@ color: goldenrod;
 color: goldenrod;
 }
 #carouselExampleCaptions{
-    margin-top: 200px;
+    margin-top: 90px;
     width: 100%;
     /* margin-left: -150px; */
 }
@@ -467,4 +479,57 @@ color: goldenrod;
 }
 #grip{
     height: 20%;
+}
+#carouselbutton{
+height: 40px;
+font-size: 25px;
+}
+.carousel-caption{
+    color: rgb(255, 193, 5);
+} 
+#icodercolor{
+    color: rgb(253, 12, 12)
+}
+a {
+    color: #000000;
+    text-decoration: none; 
+}
+.contactheading{
+    position: relative;
+    left: 885px;
+    margin-top: 120px;
+}
+.contactheading:hover{
+color: red;
+}
+.getintouch{
+    position: relative;
+    left: 900px;
+    
+}
+.getintouch:hover{
+    color: goldenrod;
+}
+
+.btn {
+    margin-top: 57px;
+    font-size: 2rem;
+}
+.accordion-button:not(.collapsed) {
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(255, 255, 255, 0.125) 0px -1px 0px inset;
+}
+.accordion-item:first-of-type .accordion-button {
+    background: rgb(255, 255, 255);
+    font-size: 16px;
+}
+#contactbody{
+    margin-left: 265px;
+    margin-top: -60px;
+   
+
+}
+#portfolio{
+    margin-top: -196px;
 }
